@@ -6,3 +6,5 @@ Creating a new branch is quick & simple.
 Creating a new branch is quick AND simple.
 branch feature
 meger conflit
+git rebase
+git rebase1
