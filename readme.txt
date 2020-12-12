@@ -5,6 +5,10 @@ Creating a new branch is quick.
 Creating a new branch is quick & simple.
 Creating a new branch is quick AND simple.
 branch feature
+<<<<<<< HEAD
 meger conflit
 git rebase
 git rebase1
+=======
+cherry-pick
+>>>>>>> c041388... cherry-pick
